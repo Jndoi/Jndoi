@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🥳 Graduated from Northeast University with a bachelor's degree in software engineering at 2020.
 - 😁 Interested in acoustic sensing and software engineering.
 - ⌨️ Java Python Matlab
-- 🎈 Enjoy 📷 🏓 🏸 🀄 🎤
 - 🎯 Looking for a job recently.
+- 🎈 Enjoy 📷 🏓 🏸 🀄 🎤
