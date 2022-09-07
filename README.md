@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there is Qiuyang Zeng 👋
 
 <!--
 **Jndoi/Jndoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👻 Study in the computer school of Beijing Institute of Technology since 2020.
+- 🥳 Graduated from Northeast University with a bachelor's degree in software engineering at 2020.
+- 😁 Interested in acoustic sensing and software engineering.
+- ⌨️ Java Python Matlab
+- 🎈 Enjoy 📷 🏓 🏸 🀄 🎤
+- 🎯 Looking for a job recently.
