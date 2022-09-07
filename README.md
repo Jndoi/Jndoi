@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😁 Interested in acoustic sensing and software engineering.
 - ⌨️ Java Python Matlab
 - 🎯 Looking for a job recently.
-- 🎈 Enjoy 📷 🏓 🏸 🀄 🎤
+- 🎉 Enjoy 📷 🏓 🏸 🀄 🎤
