@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - ⌨️ Java Python Matlab
 - 🎯 Looking for a job recently.
 - 🎉 Enjoy 📷 🏓 🏸 🀄 🎤
+
+![Jndoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jndoi&show_icons=true&theme=transparent)
